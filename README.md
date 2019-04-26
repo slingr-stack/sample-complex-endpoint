@@ -1,2 +1,2 @@
 # sample-complex-endpoint
-Sample Complex
+Sample Complex endpoint
