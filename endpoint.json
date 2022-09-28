@@ -13,6 +13,7 @@
                 "description": "Default configuration"
             }
         ],
+        "type": "java17",
         "allowMultipleInstances": true
     },
     "icon48": "https://storage.googleapis.com/static.slingrs.io/platform/endpoints/sample-complex.png",
